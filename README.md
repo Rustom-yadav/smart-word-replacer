@@ -1,4 +1,4 @@
-[📦 GitHub Repository](https://github.com/your-username/smart-word-replacer-js)
+[📦 GitHub Repository](https://github.com/Rustom-yadav/smart-word-replacer)
 
 ---
 
